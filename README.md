@@ -1,6 +1,6 @@
 ## Hi, I'm Mike Zhang 👋
 
-Computer Science student at the University of Waterloo focused on building scalable full-stack applications and backend systems.
+Computer Science student at the University of Waterloo focused on building full-stack applications and backend systems.
 
 ## 🔧 I'm Currently Working On
 - Full-stack web applications (React, TypeScript, Node.js)
@@ -8,11 +8,9 @@ Computer Science student at the University of Waterloo focused on building scala
 - Cloud-integrated applications (AWS, GCP, Azure)
 - Performance testing and system reliability
 
-## 🚀 Featured Projects
-
+## 📌 Featured Projects
 ### Nano Banana AI Image Platform
 - Full-stack AI platform with a modular backend, template-driven prompt system, and scalable API design.
-
 ### Realtime Translation Mini Program
 - Low-latency (<2s) voice/text translation system with a multi-stage processing pipeline using Azure services.
 
