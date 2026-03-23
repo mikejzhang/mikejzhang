@@ -1,6 +1,6 @@
 ## Hi, I'm Mike Zhang 👋
 
-Computer Science student at the University of Waterloo focused on building full-stack applications and backend systems.
+I'm a Computer Science student at the University of Waterloo focused on building full-stack applications and backend systems.
 
 ## 🔧 I'm Currently Working On
 - Full-stack web applications (React, TypeScript, Node.js)
