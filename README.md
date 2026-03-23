@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Mike Zhang 👋
 
-<!--
-**mikejzhang/mikejzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currently working on
+- Full-stack web applications (React, TypeScript, Node.js)
+- Backend systems and REST API design
+- Cloud-integrated applications (AWS, GCP, Azure)
+- Performance testing and system reliability
 
-Here are some ideas to get you started:
+## Featured Projects
+## Nano Banana AI Image Platform
+Full-stack AI platform with a modular backend, template-driven prompt system, and scalable API design.
+## Realtime Translation Mini Program
+Low-latency (<2s) voice/text translation system with a multi-stage processing pipeline using Azure services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+Email: mike.zhang1@uwaterloo.ca
