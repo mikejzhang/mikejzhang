@@ -9,7 +9,7 @@ Computer Science student at the University of Waterloo focused on building full-
 - Performance testing and system reliability
 
 ## 📌 Featured Projects
-### Nano Banana AI Image Platform
+### Nano-Banana
 - Full-stack AI platform with a modular backend, template-driven prompt system, and scalable API design.
 ### Realtime Translation Mini Program
 - Low-latency (<2s) voice/text translation system with a multi-stage processing pipeline using Azure services.
